@@ -86,9 +86,10 @@ Click Add New Team
 ![image](https://github.com/SeanMcClendon/post-install-config/assets/142221948/b0affcb0-a28c-40c4-8055-f876c261311c)
 
 11. Click "Set Password" next to username. Deselect Boxes, set parrword to Password1 then press set
-12. In the Access tab, select roles as depicted. In Teams tab assign Jane to Level II Support Team, Click Create. 
+12. In the Access tab, select roles as depicted. Then in Teams tab assign Jane to Level II Support Team, Click Create. 
 
-![image](https://github.com/SeanMcClendon/post-install-config/assets/142221948/260c2091-8799-4d62-9cd3-23322385f947)
+![image](https://github.com/SeanMcClendon/post-install-config/assets/142221948/c7af348d-f2c6-4317-a297-52c465463128)
+
 
 13. Add another Agent (John Doe). Give John Doe same password following same instructions as in step 11.
 14. In Access tab only give John Support and view only roles then create.  
