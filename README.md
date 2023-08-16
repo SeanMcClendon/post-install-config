@@ -33,11 +33,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create workers
+- Create customers
+- Have a fully functioning ticket OS that have the ability to simulate inputting and assigning tickets to workers with appropriate SLA's
 
 <h2>Configuration Steps</h2>
 1. Complete steps laid out in osTickets: Prerequisites and Installation
